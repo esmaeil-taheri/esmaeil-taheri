@@ -5,7 +5,7 @@
   
 ### 👨‍💻  About Me:
 
- I’m a front-end developer on a never-ending journey of learning and growth.
+I'm a back-end developer on an endless quest for knowledge and improvement.
 
 
 
@@ -42,7 +42,6 @@
 
 ### 📌 My Social:
       
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nima-soltanian)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:nimaso8228@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/nima_stn)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/nima-sltn)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/esmaeil-taheri-developer)
+  [![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](mailto:esi.taheri@yahoo.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/esiam01)
