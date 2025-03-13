@@ -3,7 +3,7 @@
   </h1>
 
   
-### 👨‍💻  About Me:
+### 🧑 About Me:
 
 I'm a back-end developer on an endless quest for knowledge and improvement.
 
