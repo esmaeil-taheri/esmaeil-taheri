@@ -48,85 +48,46 @@ I like solving the invisible, high-stakes problems: race conditions, distributed
 
 ## 🚀 Tech Stack
 
-<div align="center">
-
 ### 🧠 Languages & Frameworks
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?logo=django&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
 
-<br/><br/>
+`Python` · `Django` · `Django REST Framework` · `FastAPI`
 
 ### 🗄️ Databases & Storage
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white&style=for-the-badge" />
 
-<br/><br/>
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Elasticsearch` · `MinIO`
 
 ### ⚡ Message Brokers & Async Processing
-<img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redis_Queue-D82C20?style=for-the-badge" />
 
-<br/><br/>
+`Celery` · `Apache Kafka` · `Redis Queue`
 
 ### 🏛️ Architecture & Design
-<img src="https://img.shields.io/badge/Microservices-1E88E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Clean_Architecture-14CC8C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DDD-6A4C93?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Event--Driven_Architecture-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Design_Patterns-455A64?style=for-the-badge" />
 
-<br/><br/>
+`Microservices` · `Clean Architecture` · `Domain-Driven Design (DDD)` · `Event-Driven Architecture` · `Design Patterns`
 
 ### 🔐 Security & Authentication
-<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OTP-546E7A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TOTP_2FA-546E7A?style=for-the-badge" />
 
-<br/><br/>
+`JWT` · `OAuth 2.0` · `OTP` · `TOTP / Two-Factor Authentication`
 
 ### 📄 API & Documentation
-<img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Swagger_%2F_OpenAPI-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/ReDoc-1F2937?style=for-the-badge" />
 
-<br/><br/>
+`RESTful APIs` · `Swagger / OpenAPI` · `ReDoc`
 
 ### 🧪 Testing & Quality
-<img src="https://img.shields.io/badge/Unit_Testing-4CAF50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Integration_Testing-4CAF50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TDD-4CAF50?style=for-the-badge" />
 
-<br/><br/>
+`Unit Testing` · `Integration Testing` · `Test-Driven Development (TDD)`
 
 ### ⚙️ DevOps & Infrastructure
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" />
 
-<br/><br/>
+`Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD`
 
 ### 📊 Monitoring & Observability
-<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
 
-<br/><br/>
+`Prometheus` · `Grafana`
 
 ### 🔧 Version Control
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" />
 
-</div>
+`Git` · `GitHub` · `GitLab`
+
 
 <br/>
 
