@@ -26,7 +26,8 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<img align="right" width="280" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
 I'm a **Back-End Developer** with 3+ years of experience designing and shipping scalable, production-grade systems in **Python, Django, and FastAPI**. I care about what happens under the hood — data consistency, performance at scale, async processing, and systems that don't fall over under real financial or user load.
 
