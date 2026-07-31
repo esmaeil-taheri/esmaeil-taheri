@@ -51,7 +51,7 @@ I like solving the invisible, high-stakes problems: race conditions, distributed
 
 ### 🧠 Languages & Frameworks
 
-`Python` · `Django` · `Django REST Framework` · `FastAPI`
+`Golang` · `Python` · `Django` · `Django REST Framework` · `FastAPI`
 
 ### 🗄️ Databases & Storage
 
