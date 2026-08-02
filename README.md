@@ -105,7 +105,7 @@ I like solving the invisible, high-stakes problems: race conditions, distributed
 
 **Back-End Developer** (Full-time)
 Yara E-Commerce Foundation — *MelliGold Platform*
-`8M+ users · 50K+ daily transactions · DRF`
+`18M+ users · 50K+ daily transactions · DRF`
 
 </td>
 <td>May 2024 – Apr 2026<br/>(2 Years)</td>
