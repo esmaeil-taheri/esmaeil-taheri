@@ -30,9 +30,9 @@ I particularly enjoy solving the problems that are easy to miss in a happy-path 
 
 ## Experience
 
-### Backend Engineer — Yara E-Commerce Foundation
+### Backend Engineer — MelliGold Platform
 
-**MelliGold Platform · May 2024 – May 2026**
+**Yara E-Commerce Foundation · May 2024 – May 2026**
 
 **18M+ users · 50K+ daily transactions · Django REST Framework**
 
