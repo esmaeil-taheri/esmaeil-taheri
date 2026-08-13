@@ -4,7 +4,7 @@
 
 I build reliable backend systems where **correctness, scalability, and failure handling** matter — from financial ledger and settlement systems to event-driven AI platforms.
 
-My primary stack is **Python, Django, FastAPI, PostgreSQL, Redis, Celery, and Kafka**.
+My primary stack is **Python, Go, Django, FastAPI, PostgreSQL, Redis, Celery, and Kafka**.
 
 ---
 
@@ -192,7 +192,7 @@ A backend service built with **Go + Echo**, focused on modular service design an
 
 ### Core
 
-`Python` · `Django` · `Django REST Framework` · `FastAPI` · `PostgreSQL` · `Redis`
+`GO` · `Python` · `Django` · `Django REST Framework` · `FastAPI` · `PostgreSQL` · `Redis`
 
 ### Distributed & Async
 
