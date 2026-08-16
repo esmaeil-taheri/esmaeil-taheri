@@ -79,13 +79,13 @@ Built backend infrastructure for an AI content-generation platform.
 
 ## Selected Projects
 
-### 🥇 Gold Exchange Platform
+### 🥇 Exchange Platform
 
-**Fintech backend for digital gold trading, payments, KYC, wallets, and bank settlement.**
+**Fintech backend for digital asset trading, payments, KYC, wallets, and bank settlement.**
 
 **Django · DRF · PostgreSQL · Redis · Celery · Docker · MinIO**
 
-The system models digital gold trading with financial-style consistency requirements.
+The system models digital asset trading with financial-style consistency requirements.
 
 Key engineering areas:
 
@@ -94,7 +94,7 @@ Key engineering areas:
 * `select_for_update()` for concurrent financial operations
 * Idempotent payment callbacks
 * Async payment and settlement processing
-* Gold inventory management with active/locked balances
+* Asset inventory management with active/locked balances
 * KYC state machine
 * Bank withdrawal and settlement workflows
 * JWT + OTP + TOTP authentication
