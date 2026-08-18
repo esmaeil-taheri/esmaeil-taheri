@@ -139,7 +139,7 @@ External Systems
   └── MinIO
 ```
 
-**[View Project →](https://github.com/esmaeil-taheri/Gold-Trading-Paltform)**
+**[View Project →](https://github.com/esmaeil-taheri/Exchange-Platform)**
 
 ---
 
