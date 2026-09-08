@@ -28,55 +28,6 @@ I particularly enjoy solving the problems that are easy to miss in a happy-path 
 
 ---
 
-## Experience
-
-### Backend Engineer — MelliGold Platform
-
-**Yara E-Commerce Foundation · May 2024 – May 2026**
-
-**18M+ users · 50K+ daily transactions · Django REST Framework**
-
-Worked on large-scale financial infrastructure involving fiat and gold balances.
-
-* Designed and maintained **ledger-based wallet systems** for fiat and gold assets
-* Implemented atomic buy/sell flows using **PostgreSQL transactions and row-level locking**
-* Built asynchronous settlement and financial workflows with **Celery**
-* Worked on **multi-wallet architecture** and immutable transaction history
-* Implemented KYC and identity-verification workflows
-* Built secure authentication flows using **OTP / TOTP**
-* Worked on payment, settlement, and high-volume transaction processing
-
----
-
-### Backend Engineer — Sepas Holding
-
-**Opal AI Content Platform · Mar 2025 – Dec 2025 · Part-time / Remote**
-
-**FastAPI · Microservices · Kafka · Celery · Redis**
-
-Built backend infrastructure for an AI content-generation platform.
-
-* Unified multiple AI providers behind a single backend API
-* Built event-driven credit/usage processing with **Kafka**
-* Implemented asynchronous AI processing pipelines using **Celery + Redis**
-* Worked across **PostgreSQL, MongoDB, and MinIO**
-* Applied domain-oriented / clean architecture principles to service boundaries
-* Designed workflows around long-running and failure-prone AI operations
-
----
-
-### Backend Engineer — Sigloyland Startup
-
-**Mar 2024 – May 2024 · Full-time**
-
-**Django**
-
-* Built e-commerce backend and order-processing flows
-* Implemented store APIs and business logic
-* Integrated cryptocurrency payment processing
-
----
-
 ## Selected Projects
 
 ### 🥇 Exchange Platform
