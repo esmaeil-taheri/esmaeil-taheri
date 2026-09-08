@@ -51,45 +51,6 @@ Key engineering areas:
 * JWT + OTP + TOTP authentication
 * Dockerized infrastructure with Nginx, Celery and Redis
 
-**Architecture**
-
-```text
-Client
-  │
-  ▼
-Nginx
-  │
-  ▼
-Django REST API
-  │
-  ├── API Layer
-  │
-  ├── Service Layer
-  │
-  ├── Selector Layer
-  │
-  └── PostgreSQL
-       │
-       ├── Wallet Ledger
-       ├── Transactions
-       ├── Payments
-       ├── KYC
-       └── Settlements
-
-Async Processing
-  │
-  ├── Celery Worker
-  ├── Celery Beat
-  └── Redis
-
-External Systems
-  ├── Payment Gateway
-  ├── Bank Settlement
-  ├── Identity Verification
-  ├── SMS
-  └── MinIO
-```
-
 **[View Project →](https://github.com/esmaeil-taheri/Exchange-Platform)**
 
 ---
