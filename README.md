@@ -4,7 +4,11 @@
 
 I build reliable backend systems where **correctness, scalability, and failure handling** matter — from financial ledger and settlement systems to event-driven AI platforms.
 
-My primary stack is **Python, Go, Django, FastAPI, PostgreSQL, Redis, Celery, and Kafka**.
+**My primary stack is**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,go,django,fastapi,postgres,redis,kafka,docker" />
+</p>
 
 ---
 
