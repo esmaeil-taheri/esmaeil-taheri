@@ -14,7 +14,7 @@ I build reliable backend systems where **correctness, scalability, and failure h
 
 ## About
 
-Backend Engineer with **3+ years of experience** building and shipping production-oriented systems across fintech, AI, and e-commerce.
+Backend Engineer with **4+ years of experience** building and shipping production-oriented systems across fintech, AI, and e-commerce.
 
 My strongest areas are:
 
